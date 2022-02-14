@@ -1,14 +1,30 @@
-# Halo semua! 
+### Hi! 👋 I'm Edi.
 
-Perkenalkan nama saya **Mas 'Edi**.  
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).  
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).  
-Saya juga memiliki gelar [Google Associate Android Developer](https://www.credential.net/h5deoi5h) sejak 2019.  
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/mas-edi-49474219b/)ku ya.  
+An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-<p align="left">
-<a href="https://github.com/masedi54">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masedi54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masedi54&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+
+- 🔭 I’m currently learning on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🌱 I’m currently learning about FullStack-Developers and Flutter
+- 💬 Feel free to ask me about web development or JavaScript
+- 📫 How to reach me: aslekmak54@gmail.com
+- ⚡ Fun fact: Shy person
+  
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>    
+
+
+| <a href="https://github.com/masedi54/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=masedi54&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="masedi github stats" /></a> | <a href="https://github.com/masedi54/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masedi54&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### Reach me on
+- <a href="https://www.linkedin.com/in/mas-edi-49474219b/">LinkedIn</a>
+- aslekmak54@gmail.com
+- <a href="https://twitter/sibukBangetSIH">Twitter</a>
