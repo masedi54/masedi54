@@ -23,11 +23,17 @@ I'm currently active as a student.
 <p align="left">
 <a href="https://github.com/masedi54">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masedi54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masedi54&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masedi54&organizations=Dicoding-Learn&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
+### You can see my another project
+<a href="https://github.com/SIB-Capstone"><img align="left" alt="Dicoding Capstone" title="Dicoding Capstone" width="21px" src="https://cdn-icons-png.flaticon.com/512/8644/8644515.png" /></a>
+<a href="https://github.com/Dicoding-Learn"><img align="left" alt="Dicoding Learn" title="Dicoding Learn" width="21px" src="https://cdn-icons-png.flaticon.com/512/2683/2683274.png" /></a>
+<a href="https://github.com/The-Odin-Project-Learn"><img align="left" alt="The Odin Project Learn" title="The Odin Project Learn" width="21px" src="https://cdn-icons-png.flaticon.com/512/4946/4946348.png" /></a>
+<a href="https://github.com/College-Coding-Practice"><img align="left" alt="Campus Study" title="Campus Study" width="21px" src="https://cdn-icons-png.flaticon.com/512/1934/1934025.png" /></a>
+<br>
+
 ### Reach me on
 - <a href="https://www.linkedin.com/in/mas-edi-49474219b/">LinkedIn</a>
-- aslekmak54@gmail.com
 - <a href="https://twitter/sibukBangetSIH">Twitter</a>
