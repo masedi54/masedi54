@@ -4,11 +4,11 @@ An Software Engineer student who loves to create and share projects about web an
 
 I'm currently active as a student.
 
-- 🔭 I’m currently following <a href="https://digitalent.kominfo.go.id/akademi/FGA">Digital Talent Scholarship</a>
-- 🌱 I’m currently learning about UI/UX Web Design & Web Dev
-- 💬 Feel free to discuss with me about web development or JavaScript
-- 📫 How to reach me: aslekmak54@gmail.com
-- ⚡ Fun fact: Shy person
+- 🖥 I’m currently following <a href="https://digitalent.kominfo.go.id/akademi/FGA">Digital Talent Scholarship</a>
+- 💻 I’m currently learning about UI/UX Web Design & Web Dev
+- ☕ Feel free to discuss with me about web development or JavaScript
+- 📧 How to reach me: aslekmak54@gmail.com
+- 🔍 Fun fact: Shy person
   
 **Languages and Tools:**  
 
