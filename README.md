@@ -22,10 +22,10 @@ I'm currently active as a student.
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/masedi54">
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masedi54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=masedi54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=masedi54&organizations=Dicoding-Learn&layout=compact&langs_count=8&theme=algolia"/> -->
 <!--   <img height="160em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=masedi54&langs_count=10&layout=compact&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="200em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=masedi54&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&count_private=truet&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=masedi54&langs_count=10&layout=compact&show_icons=true&include_all_commits=true&count_private=truet&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
